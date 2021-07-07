@@ -1,0 +1,14 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: app
+spec:
+  template:
+    spec:
+      containers:
+      - name: app
+        image: 10.10.10.5:5001/rookhealth:1.0
+        # command: ["perl",  "-Mbignum=bpi", "-wle", "print bpi(2000)"]
+      restartPolicy: Never
+    # successfulJobsHistoryLimit: 2
+    # failedJobsHistoryLimit: 2

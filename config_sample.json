@@ -1,0 +1,13 @@
+{
+    "access_key": "",
+    "secret_key": "",
+    "endpoint_url": "https://xxxxxxx",
+    "region_name": "",
+    "image_url": "https://media.wired.com/photos/598e35fb99d76447c4eb1f28/master/pass/phonepicutres-TA.jpg",
+    "index_url": "https://gist.githubusercontent.com/chrisvfritz/bc010e6ed25b802da7eb/raw/18eaa48addae7e3021f6bcea03b7a6557e3f0132/index.html",
+    "website_url": "",
+    "upload_file_name": "",
+    "bucket_name": "",
+    "mattermost_webhook_url": "https://mattermost.xxxxxx.com/hooks/xxxxxxxxxxxxxxxxx",
+    "mattermost_webhook_channel": "channel"
+}
